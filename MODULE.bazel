@@ -1,0 +1,4 @@
+module(
+	name = "git_dep_with_module_bazel",
+	version = "1.0",
+)
