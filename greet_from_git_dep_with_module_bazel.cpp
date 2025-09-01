@@ -1,4 +1,4 @@
-#include "greet_from_git_dep_with_moudule_bazel.h"
+#include "greet_from_git_dep_with_module_bazel.h"
 
 void GreetFromGitDepWithModuleBazel()
 {
